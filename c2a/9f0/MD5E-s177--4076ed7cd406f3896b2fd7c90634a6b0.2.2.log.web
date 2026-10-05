@@ -1,0 +1,8 @@
+1791215841s 1 https://dandiarchive.s3.amazonaws.com/zarr/692821a6-e033-4bcc-ac63-e55e0fcdcb2c/extensions/templates/average/0.2.2?versionId=_OrUW1CFJ7SCzZlBcMHNiV1Aev27Sad3
+1791215841s 1 https://api.dandiarchive.org/api/zarr/692821a6-e033-4bcc-ac63-e55e0fcdcb2c/files?prefix=extensions%2Ftemplates%2Faverage%2F0.2.2&download=true
+1791215853s 1 https://dandiarchive.s3.amazonaws.com/zarr/692821a6-e033-4bcc-ac63-e55e0fcdcb2c/extensions/templates/percentile_75/0.2.2?versionId=tcffBMUTbypROGmEQbKFntbk6ZxfChuo
+1791215853s 1 https://api.dandiarchive.org/api/zarr/692821a6-e033-4bcc-ac63-e55e0fcdcb2c/files?prefix=extensions%2Ftemplates%2Fpercentile_75%2F0.2.2&download=true
+1791215856s 1 https://dandiarchive.s3.amazonaws.com/zarr/692821a6-e033-4bcc-ac63-e55e0fcdcb2c/extensions/templates/percentile_75/7.2.2?versionId=FYfwEwtZDct1L6cAfc3_rVAS8Y49LDrO
+1791215856s 1 https://api.dandiarchive.org/api/zarr/692821a6-e033-4bcc-ac63-e55e0fcdcb2c/files?prefix=extensions%2Ftemplates%2Fpercentile_75%2F7.2.2&download=true
+1791215857s 1 https://dandiarchive.s3.amazonaws.com/zarr/692821a6-e033-4bcc-ac63-e55e0fcdcb2c/extensions/templates/percentile_99/0.2.2?versionId=XYnjm3VDZI6uqgIvc_v_kjWSnPYIhkCm
+1791215857s 1 https://api.dandiarchive.org/api/zarr/692821a6-e033-4bcc-ac63-e55e0fcdcb2c/files?prefix=extensions%2Ftemplates%2Fpercentile_99%2F0.2.2&download=true

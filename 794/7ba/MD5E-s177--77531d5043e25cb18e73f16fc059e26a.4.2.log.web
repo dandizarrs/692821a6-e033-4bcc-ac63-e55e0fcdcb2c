@@ -1,0 +1,4 @@
+1791215842s 1 https://dandiarchive.s3.amazonaws.com/zarr/692821a6-e033-4bcc-ac63-e55e0fcdcb2c/extensions/templates/average/2.4.2?versionId=lTIah4aFcWXKEf3bKOePijqLYBLvinkU
+1791215842s 1 https://api.dandiarchive.org/api/zarr/692821a6-e033-4bcc-ac63-e55e0fcdcb2c/files?prefix=extensions%2Ftemplates%2Faverage%2F2.4.2&download=true
+1791215856s 1 https://dandiarchive.s3.amazonaws.com/zarr/692821a6-e033-4bcc-ac63-e55e0fcdcb2c/extensions/templates/percentile_75/7.4.2?versionId=MSIdnXQuRQlYgzVGSVV3eeGNt6NdEu5j
+1791215856s 1 https://api.dandiarchive.org/api/zarr/692821a6-e033-4bcc-ac63-e55e0fcdcb2c/files?prefix=extensions%2Ftemplates%2Fpercentile_75%2F7.4.2&download=true
